@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shader/block.frag</file>
+        <file>shader/block.vert</file>
+        <file>shader/line.frag</file>
+        <file>shader/line.vert</file>
+        <file>shader/text.frag</file>
+        <file>shader/text.vert</file>
+    </qresource>
+</RCC>
